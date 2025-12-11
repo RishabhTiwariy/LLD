@@ -1,2 +1,7 @@
 .vscode
 main
+*.exe
+*.obj
+*.ilk
+*.pdb
+ 
