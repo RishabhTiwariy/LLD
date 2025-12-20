@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    int n;
+    string n;
     cin>>n;
     cout<<"Rishabh Tiwari\n";
     cout<<n<<'\n';
